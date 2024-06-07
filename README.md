@@ -23,7 +23,7 @@ Initial Setup
 # **We begin our EDA by examining the first few rows of the dataset and exploring summary statistics for our numerical variables:
 **
 
-# Summary statistics are calculated to provide insights into the distribution and range of numerical features such as 'Year Built', 'Sale Price', and 'Total Basement SF'.
+Summary statistics are calculated to provide insights into the distribution and range of numerical features such as 'Year Built', 'Sale Price', and 'Total Basement SF'.
 
 # **Visualization
 **
